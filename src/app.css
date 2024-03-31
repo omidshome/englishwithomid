@@ -1,4 +1,122 @@
-:root {
+/* Global.css */
+
+/* Reset default margin and padding */
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+figure,
+footer,
+header,
+nav,
+section,
+menu,
+summary,
+details {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+/* Box-sizing border-box for all elements */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Responsive font sizes */
+html {
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+/* Mobile-first responsive layout */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #222; /* Dark background color */
+  color: #fff; /* White text color */
+}
+
+/* Responsive header styles */
+.header {
+  background-color: #333; /* Dark background color */
+  color: #fff; /* White text color */
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.tagline {
+  font-size: 1.2em;
+  opacity: 0.8; /* Slightly reduced opacity for tagline */
+}
+
+/* Other styles for your components and elements */
+
+
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -76,4 +194,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
