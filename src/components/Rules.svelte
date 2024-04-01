@@ -8,12 +8,12 @@
         french: "Règles"
       },
       {
-        farsi: "۱. دانش‌آموزان باید هزینه 10 جلسه را از پیش پرداخت کنند.",
+        farsi: "۱. دانش‌آموزان می بایست هزینه 10 جلسه را از پیش پرداخت کنند.",
         english: "1. Students must pay for a package of 10 sessions upfront at the beginning of the class.",
         french: "1. Les étudiants doivent payer un forfait de 10 sessions à l'avance au début du cours."
       },
       {
-        farsi: "۲. دانش‌آموزان می‌توانند حداکثر ۲ جلسه از بسته 10 جلسه حضور نداشته باشند. هر حضور اضافه اضافه ارائه نخواهد شد یا جایگزین خواهد شد.",
+        farsi: "۲. دانش‌آموزان می‌توانند حداکثر ۲ جلسه از بسته 10 جلسه حضور نداشته باشند. جلسه اضافه ارائه نخواهد شد یا جایگزین خواهد شد.",
         english: "2. Students are allowed to be absent for up to 2 sessions out of the 10-session package. Any additional absences will not be refunded or made up.",
         french: "2. Les étudiants sont autorisés à être absents pour un maximum de 2 sessions sur le forfait de 10 sessions. Toute absence supplémentaire ne sera ni remboursée ni rattrapée."
       },

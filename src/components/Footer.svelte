@@ -42,5 +42,10 @@
     .attribution p {
       font-size: 0.8em; /* Reduced font size for attribution text */
     }
+
+    a{
+      color: beige;
+      filter: drop-shadow(0 0 5px White);
+    }
   </style>
   
